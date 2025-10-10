@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = ".pio/build/dfrobot_beetle_esp32c3/firmware.bin"
+elf = ".pio/build/dfrobot_beetle_esp32c3/firmware.elf"
